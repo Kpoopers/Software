@@ -1,4 +1,4 @@
-# dance-moves-prediction
+# NUS CG3002 (Systems Design Project) Software Component
 
 We aim to predict dance moves using a combination of Random Forest and Support Vector Machine
 (SVM) to get the best possible accuracy. Train and test data are based on the readings obtained
